@@ -1,0 +1,5 @@
+3. Youtube ha vist que som molt bons i ens vol contractar per fer un software. En aquest software, que li direm Stube, un usuari tindrà un llistat de tots els vídeos que ha publicat.
+
+Un usuari té un email i una contrasenya.
+
+Els vídeos tindran una descripció, un títol, una url del fitxer i un identificador (EX: https://www.youtube.com/watch?v=mfKr-1I4q3Aw l'identificador del vídeo seria: mfKr-1I4q3Aw").
