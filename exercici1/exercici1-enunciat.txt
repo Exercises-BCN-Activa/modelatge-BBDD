@@ -1,0 +1,19 @@
+Vueling ens demana digitalitzar el seu sistema ja que fins ara ho fèiem tot a mà. (Per això hi havia tants retards).
+
+Volen registrar cada avió que té la companyia segons un codi únic, número de persones que hi caben i el seu model. Cada avió té un número de seients identificats per un número únic.
+
+##### TAULA AVIONS
+
+id_avio (int i únic)
+
+capacitat (int)
+
+model (varchar)
+
+####### TAULA SEIENTS
+
+id_seient (int i únic)
+
+avio_id (int)
+
+....
