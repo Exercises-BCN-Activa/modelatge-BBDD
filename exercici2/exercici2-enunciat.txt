@@ -1,0 +1,1 @@
+Tenim una botiga de quadres. Volem emmagatzemar el stock de tots els quadres que hi ha a la venta. Un quadre té un identificador, un preu i un autor, tot i que hi ha quadres d’autor anònim. S’ha de deixar registrat identificant el comprador amb un dels quadres que s’han venut. Sobre el comprador voldrem guardar el nom, cognom i dni
