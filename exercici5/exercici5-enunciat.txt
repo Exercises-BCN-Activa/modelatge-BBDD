@@ -1,0 +1,3 @@
+Tenim una xarxa social. Volem emmagatzemar el nom, email i contrasenya de cada usuari. Cada usuari tindrà un id únic que l’identificarà. Els usuaris poden ser amics entre ells això si, s’ha de informar de com s’han conegut.
+
+Un usuari pot penjar varies fotografies que estan fetes en un lloc (adreça) i s’identificaran amb un codi únic. No s’emmagatzemarà la fotografia en sí, sinó la URL d’on es pot trobar.

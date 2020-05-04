@@ -1,0 +1,3 @@
+Volem tenir un catàleg de tots els llibres que hi ha a la venta, quantes unitats queden disponibles i el seu preu. Un autor tindrà una direcció i si ha escrit un o més llibres.
+
+Un usuari té un nom d’usuari, un email i una contrasenya. Quan l’usuari fa una compra d’un o més llibres, s’emmagatzema una factura on queda referenciat cada un dels articles que ha comprat.
